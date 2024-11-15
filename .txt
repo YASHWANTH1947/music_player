@@ -1,0 +1,2 @@
+font-family: "Doto", sans-serif;
+font-family: "Playfair Display", serif;
