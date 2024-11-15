@@ -48,6 +48,7 @@ nav {
   }
   #myprogressbar{
     width: 300px;
+    cursor: pointer;
   }
   .icons{
     margin-top: 20px;
@@ -92,6 +93,6 @@ nav {
   .songinfo img{
     width: 100px;
     opacity: 0;
-    transition: opacity 1s ease;
+    transition: opacity 0.2s ease;
  
   }
