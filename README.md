@@ -7,6 +7,6 @@ event 'timeupdate'
 .input type(range)->
 event 'change' associated with it
 
-[website]: [https://stackoverflow.com](http://127.0.0.1:5500/music_player/index.html)
+[website]: (http://127.0.0.1:5500/music_player/index.html)
 
 
